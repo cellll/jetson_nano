@@ -1,7 +1,7 @@
 ### jetson_nano
 
-ubuntu 18.04.3 python3.8 tensorflow-1.15.0 gcc-7.5.0 make 4.1 
-cuda 10.0 cudnn 7.6.3.28-1+cuda10.0
+ubuntu 18.04.3 python3.8 tensorflow-1.15.0 gcc-7.5.0 make 4.1 <br>
+cuda 10.0 cudnn 7.6.3.28-1+cuda10.0 TensorRT 6.0.1 <br>
 Jetpack 버전 모름 
 
 
